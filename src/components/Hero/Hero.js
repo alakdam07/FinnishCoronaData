@@ -134,15 +134,6 @@ function Hero() {
                 ))}
               </Grid>
             </section>
-            <section className={classes.section}>
-              {state.recovered.map(list => {
-                return (
-                  <div key={list.id}>
-                    <HeroCard recovered={list.healthCareDistrict} />;
-                  </div>
-                );
-              })}
-            </section>
           </MuiThemeProvider>
         </React.Fragment>
       )}
