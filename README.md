@@ -1,6 +1,6 @@
 # Finnish Corona data
 
-## Description of the app: User can see latest Corona victim.
+## Description of the app: User can see latest Corona victim's data in Finland.
 
 **Data fetched from:** [Open API](https://w3qa5ydb4l.execute-api.eu-west-1.amazonaws.com/prod/finnishCoronaData)
 
